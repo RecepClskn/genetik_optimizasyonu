@@ -1,13 +1,16 @@
 # genetik_optimizasyonu
 
-# Genetik Algoritma ile Tarım Arazisinde Gübre ve Sulama Ayarı
+AD: Recep
+SOYAD: Çalışkan
+OKUL NUMARASI: 2312721004
+
+Genetik Algoritma ile Tarım Arazisinde Gübre ve Sulama Ayarı
 
 Bu projede, bir tarım arazisinde bitki verimini maksimize etmek amacıyla
 kısıtlı bir optimizasyon problemi **Genetik Algoritma (GA)** kullanılarak çözülmüştür.
 
 
 Amaç fonksiyonu aşağıdaki gibidir:
-
 \[
 y = 10x₁ + 6x₂ - 0.5x₁^2 - 0.2x₂^2
 \]
