@@ -1,7 +1,9 @@
 # genetik_optimizasyonu
 
 AD: Recep
+
 SOYAD: Çalışkan
+
 OKUL NUMARASI: 2312721004
 
 Genetik Algoritma ile Tarım Arazisinde Gübre ve Sulama Ayarı
