@@ -39,13 +39,13 @@ Ayrıca, her nesilde elde edilen en iyi çözümün korunmasını sağlamak amac
 
 --Algoritmada Kullandığımız Parametreler:
 
-Parametreler           Değerler
+Parametreler ve Değerleri
 
-Popülasyon Büyüklüğü    100
-İterasyon Sayısı        150
-Çaprazlama Oranı        0.8
-Mutasyon Oranı          0.05
-Turnuva Boyutu          3
+Popülasyon Büyüklüğü = 100,
+İterasyon Sayısı = 150,
+Çaprazlama Oranı = 0.8,
+Mutasyon Oranı = 0.05,
+Turnuva Boyutu = 3
 
 
 
