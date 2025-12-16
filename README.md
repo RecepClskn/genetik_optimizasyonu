@@ -19,12 +19,12 @@ y = 10x₁ + 6x₂ - 0.5x₁^2 - 0.2x₂^2
 \]
 
 --Değişkenlerimiz ise bu şekilde:
-x₁: Gübre miktarı (kg/da), 0 ≤ x₁ ≤ 50  
-x₂: Sulama miktarı (L/da), 0 ≤ x₂ ≤ 100  
+-x₁: Gübre miktarı (kg/da), 0 ≤ x₁ ≤ 50  
+-x₂: Sulama miktarı (L/da), 0 ≤ x₂ ≤ 100  
 
 --Kısıtlamalar
-x₁ + 0.1x₂ ≤ 60  
-x₂ ≥ 20  
+-x₁ + 0.1x₂ ≤ 60  
+-x₂ ≥ 20  
 
 
 --Kullandığımız Yöntem:
