@@ -30,15 +30,10 @@ y = 10x₁ + 6x₂ - 0.5x₁^2 - 0.2x₂^2
 --Kullandığımız Yöntem:
 
 Bizim problemimiz,doğrusal olmadığı ve kısıtlamaları olduğu için Genetik Algoritmayı tercih ettik.
-
 Algoritmada, gübre ve sulama miktarları sürekli değerler aldığından karar değişkenleri reel sayılarla ifade ettik.
-
 Ebeveyn seçimi aşamasında, daha iyi çözümlerin seçilme olasılığını artırırken popülasyon çeşitliliğini koruyan turnuva seçimi yöntemini kullandık.
-
 Yeni çözümler üretmek amacıyla aritmetik çaprazlama uygulanmış, popülasyondaki çeşitliliğin sürdürülmesi için Gauss mutasyonunu tercih ettik.
-
 Problemde yer alan kısıtlar, ceza fonksiyonu aracılığıyla uygunluk fonksiyonuna entegre edildi.
-
 Ayrıca, her nesilde elde edilen en iyi çözümün korunmasını sağlamak amacıyla elitizm yöntemini uyguladık.
 
 
@@ -47,13 +42,9 @@ Ayrıca, her nesilde elde edilen en iyi çözümün korunmasını sağlamak amac
 Parametreler           Değerler
 
 Popülasyon Büyüklüğü    100
-
 İterasyon Sayısı        150
-
 Çaprazlama Oranı        0.8
-
 Mutasyon Oranı          0.05
-
 Turnuva Boyutu          3
 
 
