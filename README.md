@@ -16,6 +16,7 @@ kısıtlı bir optimizasyon problemi **Genetik Algoritma (GA)** kullanılarak ç
 
 
 --Amaç fonksiyonu aşağıdaki gibidir:
+
 \[
 y = 10x₁ + 6x₂ - 0.5x₁^2 - 0.2x₂^2
 \]
